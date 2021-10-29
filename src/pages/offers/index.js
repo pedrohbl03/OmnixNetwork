@@ -21,8 +21,8 @@ const OffersPage = () => {
           <h3 className="text-white font-bold text-2xl">Ofertas disponiveis</h3>
           <div className="container flex flex-row flex-wrap justify-center sm:justify-start lg:justify-center">
             <Card banda="100 MB" price="R$ 100" download="100MB" upload="20MB" wifi="incluso" installation="Grátis"></Card>
-            <Card banda="200 MB" price="R$ 100" download="200MB" upload="20MB" wifi="incluso" installation="Grátis"></Card>
-            <Card banda="300 MB" price="R$ 100" download="300MB" upload="20MB" wifi="incluso" installation="Grátis"></Card>
+            <Card banda="200 MB" price="R$ 150" download="200MB" upload="20MB" wifi="incluso" installation="Grátis"></Card>
+            <Card banda="300 MB" price="R$ 200" download="300MB" upload="20MB" wifi="incluso" installation="Grátis"></Card>
           </div>
         </div>
         <Button></Button>
