@@ -5,14 +5,14 @@ import Footer from '../../components/footer/Footer';
 
 
 const HomePage = () => {
-    return (
-        <div className="wrapper">
-            <Header></Header>
-            <MainContent></MainContent>
-            <Footer></Footer>
-        </div>
-        
-    )
+  return (
+    <div className="wrapper">
+      <Header></Header>
+      <MainContent></MainContent>
+      <Footer></Footer>
+    </div>
+
+  )
 }
 
 export default HomePage;
