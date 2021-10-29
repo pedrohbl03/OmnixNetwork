@@ -3,8 +3,6 @@ import React from 'react'
 
 function Button(props) {
 
-  console.log(props)
-
   return (
     <div className="">
       <div className="btn py-5 flex justify-end fixed bottom-5 right-5">
